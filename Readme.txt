@@ -1,0 +1,1 @@
+This is the a project that uses mean stack for development of full stack website.
